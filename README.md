@@ -25,3 +25,41 @@ To grow into a data analyst who can turn data into clear, useful, and actionable
 ### 📫 Connect With Me
 
 - GitHub: [@BritneyAnalyzes](https://github.com/BritneyAnalyzes)
+
+
+# Retail Sales Analysis
+
+**Portfolio:** BritneyAnalyzes  
+**Project type:** Beginner data analytics case study  
+**Dataset:** Fictional practice data
+
+## Project Overview
+
+This project explores a fictional retail sales dataset to practice data cleaning, SQL analysis, and data visualization.
+
+## Business Questions
+
+- Which product categories generate the most revenue?
+- How does revenue change over time?
+- Which products have the highest estimated gross profit?
+- How do sales compare across regions and sales channels?
+
+## Tools
+
+- SQL for querying and analysis
+- Excel or Google Sheets for data inspection and cleaning
+- R for analysis and visualization
+- Tableau for dashboard development
+
+## Metrics
+
+- Revenue after discounts = quantity × unit price × (1 − discount rate)
+- Estimated gross profit = quantity × (discounted unit price − unit cost)
+
+## Project Status
+
+In progress. Analysis results and visualizations will be added after the dataset has been analyzed.
+
+## Data Disclaimer
+
+This is a learning project using fictional data. It does not represent actual sales from a real company.
